@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,13 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cba35979d2028b7",
+  "active": "9d8315dd7462cda9",
   "lastOpenFiles": [
-    "Task Reza/Task Complete.md",
-    "Task Reza/Task Manager.md",
-    "شسیشسیشی.md",
-    "Task Reza",
+    "Reza So",
+    "Task Mostafa",
     "تست.md",
+    "Task Reza/Task Manager.md",
+    "Task Reza",
+    "شسیشسیشی.md",
     "sasdadad.md",
     "یشی.md"
   ]
