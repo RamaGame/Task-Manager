@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahdiyar/MahdiyarTasks.md",
+                "file": "Task Reza/مدال ها.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MahdiyarTasks"
+              "title": "مدال ها"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "شسیشسیشی.md",
+                "file": "Task Reza/Task Manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,13 +190,21 @@
   },
   "active": "2cba35979d2028b7",
   "lastOpenFiles": [
-    "Mostafa Khodabin/Task Mostafa.md",
-    "Operon/Demo Workspace/Operon Basics Project.md",
-    "Mahdiyar/MahdiyarTasks.md",
-    "Task Reza/مدال ها.md",
-    "Mahdiyar",
     "Task Reza/Task Manager.md",
+    "Task Reza/مدال ها.md",
+    "Operon/Tables/Default table.table",
+    "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
+    "Operon/Demo Workspace/Operon Command Palette.md",
+    "Operon/Demo Workspace/Operon Basics Project.md",
+    "Operon/Tables",
+    "Operon/Demo Workspace",
+    "Operon",
+    "Mostafa Khodabin/Task Mostafa.md",
     "Mostafa Khodabin",
+    "Mahdiyar/MahdiyarTasks.md",
+    "Mahdiyar",
+    "Untitled",
+    "Reza Soleymani/Document Game/General Overview/سند طراحی بازی - مقر فرماندهی.md",
     "Reza Soleymani/Document Game/images/upgrades.png",
     "Reza Soleymani/Document Game/images/squad-roster.png",
     "Reza Soleymani/Document Game/images/missions.png",
@@ -206,19 +214,14 @@
     "Reza Soleymani/Document Game/docs/06-structure-roadmap.md",
     "Reza Soleymani/Document Game/docs/05-live-content.md",
     "Reza Soleymani/Document Game/docs/04-progression.md",
-    "Reza Soleymani/Document Game/docs/02-gameplay.md",
     "Reza Soleymani/Document Game/docs/03-menus.md",
+    "Reza Soleymani/Document Game/docs/02-gameplay.md",
     "Reza Soleymani/Document Game/docs/01-overview.md",
     "Reza Soleymani/Document Game/docs",
     "Reza Soleymani/Document Game/README.md",
-    "Reza Soleymani/Document Game/General Overview/سند طراحی بازی - مقر فرماندهی.md",
     "Reza Soleymani/Document Game/General Overview",
-    "Reza Soleymani/Document Game",
-    "Reza Soleymani",
-    "Task Reza/Task Complete.md",
-    "شسیشسیشی.md",
-    "Task Reza",
     "تست.md",
+    "شسیشسیشی.md",
     "sasdadad.md",
     "یشی.md"
   ]
