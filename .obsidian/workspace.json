@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b4a06eb0ba7c40ca",
@@ -191,9 +190,10 @@
   },
   "active": "2cba35979d2028b7",
   "lastOpenFiles": [
-    "Task Reza/مدال ها.md",
     "Mostafa Khodabin/Task Mostafa.md",
+    "Operon/Demo Workspace/Operon Basics Project.md",
     "Mahdiyar/MahdiyarTasks.md",
+    "Task Reza/مدال ها.md",
     "Mahdiyar",
     "Task Reza/Task Manager.md",
     "Mostafa Khodabin",
