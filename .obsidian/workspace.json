@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b4a06eb0ba7c40ca",
@@ -191,11 +190,11 @@
   },
   "active": "2cba35979d2028b7",
   "lastOpenFiles": [
-    "Task Reza/مدال ها.md",
-    "Mostafa Khodabin/Task Mostafa.md",
-    "Mahdiyar/MahdiyarTasks.md",
-    "Mahdiyar",
     "Task Reza/Task Manager.md",
+    "Mahdiyar/MahdiyarTasks.md",
+    "Mostafa Khodabin/Task Mostafa.md",
+    "Task Reza/مدال ها.md",
+    "Mahdiyar",
     "Mostafa Khodabin",
     "Reza Soleymani/Document Game/images/upgrades.png",
     "Reza Soleymani/Document Game/images/squad-roster.png",
