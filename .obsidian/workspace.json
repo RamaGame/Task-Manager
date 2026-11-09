@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Reza/مدال ها.md",
+                "file": "Mahdiyar/MahdiyarTasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "مدال ها"
+              "title": "MahdiyarTasks"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "2cba35979d2028b7",
   "lastOpenFiles": [
-    "Task Reza/Task Manager.md",
     "Task Reza/مدال ها.md",
+    "Task Reza/Task Manager.md",
     "Operon/Tables/Default table.table",
     "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
     "Operon/Demo Workspace/Operon Command Palette.md",
