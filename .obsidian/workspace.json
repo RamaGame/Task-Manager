@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Reza/مدال ها.md",
+                "file": "Task Reza/Task Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "مدال ها"
+              "title": "Task Manager"
             }
           }
         ]
@@ -185,13 +185,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
     }
   },
   "active": "2cba35979d2028b7",
   "lastOpenFiles": [
-    "Task Reza/Task Manager.md",
     "Task Reza/مدال ها.md",
+    "Operon/Tasks",
+    "Task Reza/Task Manager.md",
     "Operon/Tables/Default table.table",
     "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
     "Operon/Demo Workspace/Operon Command Palette.md",
@@ -219,7 +227,6 @@
     "Reza Soleymani/Document Game/docs/01-overview.md",
     "Reza Soleymani/Document Game/docs",
     "Reza Soleymani/Document Game/README.md",
-    "Reza Soleymani/Document Game/General Overview",
     "تست.md",
     "شسیشسیشی.md",
     "sasdadad.md",
