@@ -185,7 +185,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
     }
   },
   "active": "2cba35979d2028b7",
