@@ -7,14 +7,14 @@ dateDue: 2026-11-12
 taskIcon: sparkles
 taskColor: "#111827"
 datetimeCreated: 2026-11-05T15:25:31
-datetimeModified: 2026-11-05T15:26:23
-progress: 2
+datetimeModified: 2026-11-12T10:59:13
+progress: 5
 directSubtaskCount: 11
 directDoneSubtaskCount: 0
 directOpenSubtaskCount: 10
 treeDescendantCount: 44
-treeDoneDescendantCount: 1
-treeOpenDescendantCount: 42
+treeDoneDescendantCount: 2
+treeOpenDescendantCount: 41
 totalEstimate: 8700
 ---
 
@@ -24,10 +24,10 @@ This is a working basics project for exploring Operon. Every checklist item belo
 
 ## Start Here
 
-- [ ] Start Here #operon-demo #operon-demo-section {{operonId:: j9svbz2}} {{status:: Project.Planned}} {{priority:: B}} {{parentTask:: l1dk70s}} {{progress:: 0}} {{directSubtaskCount:: 3}} {{directDoneSubtaskCount:: 0}} {{directOpenSubtaskCount:: 3}} {{treeDescendantCount:: 3}} {{treeDoneDescendantCount:: 0}} {{treeOpenDescendantCount:: 3}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Gives you a low-risk place to open, edit, and complete real Operon tasks before using your own work.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
+- [ ] Start Here #operon-demo #operon-demo-section {{operonId:: j9svbz2}} {{status:: Project.Planned}} {{priority:: B}} {{parentTask:: l1dk70s}} {{progress:: 0}} {{directSubtaskCount:: 3}} {{directDoneSubtaskCount:: 0}} {{directOpenSubtaskCount:: 3}} {{treeDescendantCount:: 3}} {{treeDoneDescendantCount:: 0}} {{treeOpenDescendantCount:: 3}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Gives you a low-risk place to open, edit, and complete real Operon tasks before using your own work.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-12T10:58:08}}
   - [ ] Open this task in the Task Editor #operon-demo {{operonId:: wpc09ju}} {{status:: Project.Planned}} {{priority:: C}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Shows where a task's full context lives when the inline line is too small for real planning.}} {{parentTask:: j9svbz2}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
   - [ ] Adjust this task priority #operon-demo {{operonId:: w55g8jk}} {{status:: Project.Planned}} {{priority:: C}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Makes priority feel like a decision tool, not just a label sitting beside the task.}} {{parentTask:: j9svbz2}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
-  - [ ] Complete this task from the inline controls #operon-demo {{operonId:: 9m01gqg}} {{status:: Project.Planned}} {{priority:: C}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Shows the fastest path from action to done without opening a full editor.}} {{parentTask:: j9svbz2}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
+  - [ ] Complete this task from the inline controls #operon-demo {{operonId:: 9m01gqg}} {{status:: Project.Planned}} {{priority:: C}} {{dateDue:: 2026-11-19}} {{dateScheduled:: 2026-11-12}} {{parentTask:: j9svbz2}} {{taskIcon:: compass}} {{taskColor:: 2563EB}} {{note:: Shows the fastest path from action to done without opening a full editor.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-12T10:58:08}}
 
 ## Capture And Edit Tasks
 
@@ -94,10 +94,10 @@ This is a working basics project for exploring Operon. Every checklist item belo
 
 ## Finish The Demo
 
-- [ ] Finish The Demo #operon-demo #operon-demo-section {{operonId:: eqt8ryo}} {{status:: Project.Planned}} {{priority:: B}} {{parentTask:: l1dk70s}} {{progress:: 0}} {{directSubtaskCount:: 3}} {{directDoneSubtaskCount:: 0}} {{directOpenSubtaskCount:: 3}} {{treeDescendantCount:: 3}} {{treeDoneDescendantCount:: 0}} {{treeOpenDescendantCount:: 3}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Closes the basics loop by checking the main views after using real task interactions.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
+- [ ] Finish The Demo #operon-demo #operon-demo-section {{operonId:: eqt8ryo}} {{status:: Project.Planned}} {{priority:: B}} {{parentTask:: l1dk70s}} {{progress:: 33}} {{directSubtaskCount:: 3}} {{directDoneSubtaskCount:: 1}} {{directOpenSubtaskCount:: 2}} {{treeDescendantCount:: 3}} {{treeDoneDescendantCount:: 1}} {{treeOpenDescendantCount:: 2}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Closes the basics loop by checking the main views after using real task interactions.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-12T10:59:13}}
   - [ ] Complete three demo tasks #operon-demo {{operonId:: 90yeobz}} {{status:: Project.Planned}} {{priority:: B}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Turns the demo from reading into muscle memory by making a few real state changes.}} {{parentTask:: eqt8ryo}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
-  - [ ] Open demo tasks on the Kanban board #operon-demo {{operonId:: gzb4dsu}} {{status:: Project.Planned}} {{priority:: C}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Connects the same tasks to a board view so status changes become easier to scan.}} {{parentTask:: eqt8ryo}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
-  - [ ] Open scheduled demo tasks on the Calendar #operon-demo {{operonId:: q2zbadp}} {{status:: Project.Planned}} {{priority:: C}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Connects scheduled tasks to time planning so dates and timed blocks feel practical, not decorative.}} {{parentTask:: eqt8ryo}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-05T15:25:31}}
+  - [ ] Open demo tasks on the Kanban board #operon-demo {{operonId:: gzb4dsu}} {{status:: Project.Planned}} {{priority:: C}} {{dateStarted:: 2026-11-12}} {{parentTask:: eqt8ryo}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Connects the same tasks to a board view so status changes become easier to scan.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-12T10:58:44}}
+  - [x] Open scheduled demo tasks on the Calendar #operon-demo {{operonId:: q2zbadp}} {{status:: Project.Finished}} {{priority:: C}} {{dateCompleted:: 2026-11-12}} {{parentTask:: eqt8ryo}} {{taskIcon:: badge-check}} {{taskColor:: 64748B}} {{note:: Connects scheduled tasks to time planning so dates and timed blocks feel practical, not decorative.}} {{datetimeCreated:: 2026-11-05T15:25:31}} {{datetimeModified:: 2026-11-12T10:59:13}}
 
 ---
 
