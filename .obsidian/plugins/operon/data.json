@@ -42,7 +42,7 @@
 		"releaseNotesShowOnUpdate": true,
 		"releaseNotesLastShownVersion": "4.5.0",
 		"checkForUpdatesOnStartup": true,
-		"lastNotifiedReleaseVersion": "4.6.0",
+		"lastNotifiedReleaseVersion": "4.7.0",
 		"operonDocsFolder": "Operon/Docs",
 		"operonDocsAutoUpdateEnabled": false,
 		"operonDocsLastAutoUpdateVersion": "",
@@ -3196,10 +3196,6 @@
 				"2sw9sjw": {
 					"pinned": true,
 					"updatedAt": "2026-11-05T11:57:34.972Z"
-				},
-				"48dankx": {
-					"pinned": false,
-					"updatedAt": "2026-11-05T11:56:38.381Z"
 				}
 			}
 		}
