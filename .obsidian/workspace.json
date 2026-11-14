@@ -1,35 +1,24 @@
 {
   "main": {
-    "id": "7b7bdfc47de8acd0",
+    "id": "0bf0e6c9aba13230",
     "type": "split",
     "children": [
       {
-        "id": "fd5516d6478a0cbc",
+        "id": "26044f2dc23f7f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "2cba35979d2028b7",
+            "id": "de9e34ac4b3934f5",
             "type": "leaf",
             "state": {
-              "type": "operon-table-file-view",
+              "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Task Reza/Task Manager.md",
+                "file": "Mahdiyar/MahdiyarTasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Manager"
-=======
-                "file": "Operon/Tables/Default table.table",
-                "presetId": "table-preset-my-first-table",
-                "searchQuery": "",
-                "scrollTop": 0,
-                "scrollLeft": 0
-              },
-              "icon": "table-2",
-              "title": "Default table"
->>>>>>> f09f8b406556f2b84c27a6d940fa194407b92f94
+              "title": "MahdiyarTasks"
             }
           }
         ]
@@ -38,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0e369e0719f6a97f",
+    "id": "d7c819d07366c1cd",
     "type": "split",
     "children": [
       {
-        "id": "75e3fc3da88663e5",
+        "id": "5112eb0a1eeaf030",
         "type": "tabs",
         "children": [
           {
-            "id": "9d8315dd7462cda9",
+            "id": "e4f226084ca0675d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +50,7 @@
             }
           },
           {
-            "id": "bbf0dfad93d0142d",
+            "id": "36b7e46d2a2c5b2b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +67,7 @@
             }
           },
           {
-            "id": "895a3efb25b0e387",
+            "id": "7060197829a2ee92",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "b4a06eb0ba7c40ca",
+    "id": "e3f5525575c1f910",
     "type": "split",
     "children": [
       {
-        "id": "a736885cda1b6d29",
+        "id": "95fd34c5865ba658",
         "type": "tabs",
         "children": [
           {
-            "id": "08a37e841d91b7cf",
+            "id": "6c83e9f96208243b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Reza/Task Manager.md",
+                "file": "Mahdiyar/MahdiyarTasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +113,12 @@
             }
           },
           {
-            "id": "848915a7aca1223a",
+            "id": "9401f5622d78ce1e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Reza/Task Manager.md",
+                "file": "Mahdiyar/MahdiyarTasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -138,7 +127,7 @@
             }
           },
           {
-            "id": "8bbdeed60d2e1cfe",
+            "id": "b3d6b21ecd7690a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +142,7 @@
             }
           },
           {
-            "id": "d5be884d6a999db9",
+            "id": "8ee222485ec5a0df",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,12 +156,12 @@
             }
           },
           {
-            "id": "d29b0993a5a0c5b1",
+            "id": "f6b67c2f4fee51cc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Reza/Task Manager.md",
+                "file": "Mahdiyar/MahdiyarTasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,58 +185,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "operon:Create New Operon Task": false,
-      "operon:Operon Filter View": false,
-      "operon:Task Finder": false,
-      "operon:Operon Calendar": false,
-      "operon:Operon Kanban": false,
-      "operon:Operon Table": false,
-      "operon:Open Pinned Tasks": false
+      "bases:Create new base": false
     }
   },
-  "active": "2cba35979d2028b7",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Mostafa Khodabin/Task Mostafa.md",
-    "Task Reza/Task Manager.md",
-    "Task Reza/مدال ها.md",
-    "Mahdiyar/MahdiyarTasks.md",
-=======
-    "Operon/Demo Workspace/Operon Basics Project.md",
->>>>>>> f09f8b406556f2b84c27a6d940fa194407b92f94
-    "Operon/Tables/Default table.table",
-    "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
-    "Operon/Demo Workspace/Operon Command Palette.md",
-    "Reza Soleymani/Document Game/docs/05-live-content.md",
-    "Reza Soleymani/Document Game/docs/04-progression.md",
-    "Reza Soleymani/Document Game/docs/03-menus.md",
-    "Reza Soleymani/Document Game/docs/02-gameplay.md",
-    "Reza Soleymani/Document Game/docs/01-overview.md",
-    "Task Reza/Task Manager.md",
-    "Mahdiyar/MahdiyarTasks.md",
-    "Task Reza/مدال ها.md",
-    "Mostafa Khodabin/Task Mostafa.md",
-    "Operon/Tables",
-    "Operon/Demo Workspace",
-    "Operon",
-    "Mostafa Khodabin",
-    "Mahdiyar",
-    "Untitled",
-    "Reza Soleymani/Document Game/General Overview/سند طراحی بازی - مقر فرماندهی.md",
-    "Reza Soleymani/Document Game/images/upgrades.png",
-    "Reza Soleymani/Document Game/images/squad-roster.png",
-    "Reza Soleymani/Document Game/images/missions.png",
-    "Reza Soleymani/Document Game/images/headquarters.png",
-    "Reza Soleymani/Document Game/images/gameplay.png",
-    "Reza Soleymani/Document Game/images",
-    "Reza Soleymani/Document Game/docs/06-structure-roadmap.md",
-    "Reza Soleymani/Document Game/docs",
-    "Reza Soleymani/Document Game/README.md",
-    "Reza Soleymani/Document Game/General Overview",
-    "تست.md",
-    "شسیشسیشی.md",
-    "sasdadad.md",
-    "یشی.md"
-  ]
+  "active": "de9e34ac4b3934f5",
+  "lastOpenFiles": []
 }
