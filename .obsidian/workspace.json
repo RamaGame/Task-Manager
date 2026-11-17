@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahdiyar/MahdiyarTasks.md",
+                "file": "Task Reza/Task Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MahdiyarTasks"
+              "title": "Task Manager"
             }
           }
         ]
@@ -185,9 +185,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
     }
   },
   "active": "de9e34ac4b3934f5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Mahdiyar/MahdiyarTasks.md"
+  ]
 }
