@@ -1,35 +1,24 @@
 {
   "main": {
-    "id": "7b7bdfc47de8acd0",
+    "id": "f1f5dc46f8c3d937",
     "type": "split",
     "children": [
       {
-        "id": "fd5516d6478a0cbc",
+        "id": "0315cfdd9dce1119",
         "type": "tabs",
         "children": [
           {
-            "id": "2cba35979d2028b7",
+            "id": "03d4389298c799a5",
             "type": "leaf",
             "state": {
-              "type": "operon-table-file-view",
+              "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Task Reza/Task Manager.md",
+                "file": "Task Reza/مدال ها.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Manager"
-=======
-                "file": "Operon/Tables/Default table.table",
-                "presetId": "table-preset-my-first-table",
-                "searchQuery": "",
-                "scrollTop": 0,
-                "scrollLeft": 0
-              },
-              "icon": "table-2",
-              "title": "Default table"
->>>>>>> f09f8b406556f2b84c27a6d940fa194407b92f94
+              "title": "مدال ها"
             }
           }
         ]
@@ -38,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0e369e0719f6a97f",
+    "id": "2ee506d2105ea0ca",
     "type": "split",
     "children": [
       {
-        "id": "75e3fc3da88663e5",
+        "id": "1859259c685c8d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "9d8315dd7462cda9",
+            "id": "234fe211d94c4fdd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +50,7 @@
             }
           },
           {
-            "id": "bbf0dfad93d0142d",
+            "id": "617f432e2070eead",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +67,7 @@
             }
           },
           {
-            "id": "895a3efb25b0e387",
+            "id": "df8f1b1df7a674c5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,15 +86,15 @@
     "width": 300
   },
   "right": {
-    "id": "b4a06eb0ba7c40ca",
+    "id": "454727626d3f8638",
     "type": "split",
     "children": [
       {
-        "id": "a736885cda1b6d29",
+        "id": "e3a1a13d57f00285",
         "type": "tabs",
         "children": [
           {
-            "id": "08a37e841d91b7cf",
+            "id": "5eb32aeb80828633",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -124,7 +113,7 @@
             }
           },
           {
-            "id": "848915a7aca1223a",
+            "id": "1f630d4cde9ce341",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,7 +127,7 @@
             }
           },
           {
-            "id": "8bbdeed60d2e1cfe",
+            "id": "8277a8235bd69f89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +142,7 @@
             }
           },
           {
-            "id": "d5be884d6a999db9",
+            "id": "5dea90e5f08a82b7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,7 +156,7 @@
             }
           },
           {
-            "id": "d29b0993a5a0c5b1",
+            "id": "dd7e9c450bd1a010",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -206,48 +195,9 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "2cba35979d2028b7",
+  "active": "03d4389298c799a5",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Mostafa Khodabin/Task Mostafa.md",
     "Task Reza/Task Manager.md",
-    "Task Reza/مدال ها.md",
-    "Mahdiyar/MahdiyarTasks.md",
-=======
-    "Operon/Demo Workspace/Operon Basics Project.md",
->>>>>>> f09f8b406556f2b84c27a6d940fa194407b92f94
-    "Operon/Tables/Default table.table",
-    "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
-    "Operon/Demo Workspace/Operon Command Palette.md",
-    "Reza Soleymani/Document Game/docs/05-live-content.md",
-    "Reza Soleymani/Document Game/docs/04-progression.md",
-    "Reza Soleymani/Document Game/docs/03-menus.md",
-    "Reza Soleymani/Document Game/docs/02-gameplay.md",
-    "Reza Soleymani/Document Game/docs/01-overview.md",
-    "Task Reza/Task Manager.md",
-    "Mahdiyar/MahdiyarTasks.md",
-    "Task Reza/مدال ها.md",
-    "Mostafa Khodabin/Task Mostafa.md",
-    "Operon/Tables",
-    "Operon/Demo Workspace",
-    "Operon",
-    "Mostafa Khodabin",
-    "Mahdiyar",
-    "Untitled",
-    "Reza Soleymani/Document Game/General Overview/سند طراحی بازی - مقر فرماندهی.md",
-    "Reza Soleymani/Document Game/images/upgrades.png",
-    "Reza Soleymani/Document Game/images/squad-roster.png",
-    "Reza Soleymani/Document Game/images/missions.png",
-    "Reza Soleymani/Document Game/images/headquarters.png",
-    "Reza Soleymani/Document Game/images/gameplay.png",
-    "Reza Soleymani/Document Game/images",
-    "Reza Soleymani/Document Game/docs/06-structure-roadmap.md",
-    "Reza Soleymani/Document Game/docs",
-    "Reza Soleymani/Document Game/README.md",
-    "Reza Soleymani/Document Game/General Overview",
-    "تست.md",
-    "شسیشسیشی.md",
-    "sasdadad.md",
-    "یشی.md"
+    "Task Reza/مدال ها.md"
   ]
 }
