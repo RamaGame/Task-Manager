@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahdiyar/MahdiyarTasks.md",
+                "file": "Mostafa Khodabin/Gym collections 23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MahdiyarTasks"
+              "title": "Gym collections 23"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mahdiyar/MahdiyarTasks.md",
+                "file": "Mostafa Khodabin/Military Base Prop Pack Marketplace product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,24 +185,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "operon:Create New Operon Task": false,
-      "operon:Operon Filter View": false,
-      "operon:Task Finder": false,
-      "operon:Operon Calendar": false,
-      "operon:Operon Kanban": false,
-      "operon:Operon Table": false,
-      "operon:Open Pinned Tasks": false
+      "bases:Create new base": false
     }
   },
   "active": "de9e34ac4b3934f5",
   "lastOpenFiles": [
-    "Task Reza/Task Manager.md",
-    "Task Reza/مدال ها.md",
-    "Reza Soleymani/Document Game/docs/03-menus.md",
-    "Reza Soleymani/Document Game/docs/02-gameplay.md",
-    "Reza Soleymani/Document Game/docs/01-overview.md",
-    "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
-    "Mahdiyar/MahdiyarTasks.md"
+    "Mahdiyar/3DSky Tasks.md",
+    "Mahdiyar/MahdiyarTasks.md",
+    "Mostafa Khodabin/Gym collections 23.md",
+    "Mostafa Khodabin/Military Base Prop Pack Marketplace product.md",
+    "Mostafa Khodabin/Task Mostafa.md",
+    "Mahdiyar/Military Base Prop tasks.md",
+    "Task Reza/Task Manager.md"
   ]
 }

@@ -1,0 +1,1 @@
+مدل mg25 لینک: https://www.technogym.com/en-GB/product/pure-strength-low-row_MG25.html مدل دانلود شود و ریتوپو شود 
