@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahdiyar/3DSky Tasks.md",
+                "file": "Task Reza/task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3DSky Tasks"
+              "title": "task"
             }
           }
         ]
@@ -185,15 +185,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
     }
   },
   "active": "de9e34ac4b3934f5",
   "lastOpenFiles": [
+    "Mostafa Khodabin/Military Base Prop Pack Marketplace product.md",
+    "Mostafa Khodabin/Gym collections 23.md",
     "Mahdiyar/Military Base Prop tasks.md",
     "Mahdiyar/3DSky Tasks.md",
+    "Task Reza/مدال ها.md",
+    "Task Reza/task.md",
     "Mahdiyar/MahdiyarTasks.md",
-    "Mostafa Khodabin/Military Base Prop Pack Marketplace product.md",
     "Task Reza/Task Manager.md"
   ]
 }
